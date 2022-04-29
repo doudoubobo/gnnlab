@@ -2,7 +2,7 @@
 
 GNNLab is a factored system for sample-based GNN training over GPUs. GNNLab dedicates each GPU to the task of graph sampling or model training. It accelerates both tasks by eliminating GPU memory contention. Furthermore, GNNLab embodies a new pre-sampling based caching policy that takes both sampling algorithms and GNN datasets into account, showing an efficient and robust caching performance. This work is cooperated with GraphScope team from Alibaba Group.
 
-<a href="https://github.com/alibaba/GraphScope"><img width="300" alt="gs-badge-cowork" src="https://user-images.githubusercontent.com/426463/165910265-3659a912-4243-4a50-a70e-94a8e9d56d43.png"></a>
+<a href="https://github.com/alibaba/GraphScope"><img width="300" alt="gs-badge-cowork" src="https://graphscope.io/img/badge-cowork-lm.png"></a>
 
 ## Paper
 GNNLab: A Factored System For Sample-based GNN Training Over GPUs, EuroSys'22, *Jianbang Yang, Dahai Tang, Xiaoniu Song, Lei Wang, Qiang Yin, Rong Chen, Wenyuan Yu, and Jingren Zhou.*
